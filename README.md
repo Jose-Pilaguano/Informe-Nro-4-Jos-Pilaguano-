@@ -80,6 +80,8 @@ EJERCICIOS CAPITULO 8
 
 ![image](https://user-images.githubusercontent.com/116677175/208551188-19f00c5e-b120-4081-99e0-8440f524add4.png)
 
+VIDEO: https://youtu.be/hdXTLk0BwI0
+
 CONCLUSIONES 
 
 Para este deber fue importante el uso de conocimientos previos del anterior parcial tanto como los nuevos adquiridos. El uso de los nuevos teoremas aprendidos y los anteriores son claramente utiles al momento de resolver circuitos ya con más complejidad.
